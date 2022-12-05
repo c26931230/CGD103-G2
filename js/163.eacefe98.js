@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcgd103_g2"]=self["webpackChunkcgd103_g2"]||[]).push([[163],{8163:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var t=r(3396);const u=(0,t._)("div",null,[(0,t._)("h1",null,"WearingView")],-1);function c(n,e,r,c,o,a){const i=(0,t.up)("Footer");return(0,t.wg)(),(0,t.iD)(t.HY,null,[u,(0,t.Wm)(i)],64)}var o=r(2335),a={name:"Wearing",components:{Footer:o.Z}},i=r(89);const l=(0,i.Z)(a,[["render",c]]);var s=l}}]);
+//# sourceMappingURL=163.eacefe98.js.map

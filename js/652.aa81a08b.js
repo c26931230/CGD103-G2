@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcgd103_g2"]=self["webpackChunkcgd103_g2"]||[]).push([[652],{2652:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var o=r(3396);const t=(0,o._)("div",null,[(0,o._)("h1",null,"ConfirmView")],-1);function u(n,e,r,u,c,i){const l=(0,o.up)("Footer");return(0,o.wg)(),(0,o.iD)(o.HY,null,[t,(0,o.Wm)(l)],64)}var c=r(2335),i={name:"Confirm",components:{Footer:c.Z}},l=r(89);const s=(0,l.Z)(i,[["render",u]]);var f=s}}]);
+//# sourceMappingURL=652.aa81a08b.js.map
